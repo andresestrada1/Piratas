@@ -1,0 +1,84 @@
+.pirata{
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.contenedor{
+  width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(223, 129, 5);
+  border: solid black 2px;
+}
+.titulo{
+  text-align: center;
+  background-color: rgba(166, 57, 35, 0.981);
+  color: white;
+  border: solid black 2px;  
+}
+.titulo2{
+  background-color: rgba(166, 57, 35, 0.981);
+  color: white;
+  border: solid black 2px;  
+  display: flex;
+  justify-content: space-between; 
+}
+
+.imagen{
+  margin-left: 50px;
+  margin-top: auto;
+  text-align: center;
+}
+
+.informacion{
+  border: solid black 2px;
+  margin-left: 50px;
+  width: 400px;
+  background-color: white;
+  margin-top: 10px;
+  font-size: 20px;
+
+}
+
+.subtitulo{
+  margin-left: 110px;
+}
+
+.boton{
+  margin-left: 95px;
+  color: aqua;
+}
+
+.btn{
+  background-color: blue;
+  box-shadow: 5px 15px 10px black;
+}
+
+.danger{
+  background-color: red;
+  border-radius: 5%;
+  box-shadow: 5px 15px 10px black;
+}
+
+.felipe{
+  display: flex;
+  justify-content: space-between; 
+}
+
+.crew{
+  margin-left: 300px;
+}
+
+.check{
+  margin-left: 30px;
+}
+
+.nuevoPirata{
+  width: 800px;
+  height: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(223, 129, 5);
+  border: solid black 2px;
+}
